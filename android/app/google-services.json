@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "625569081738",
+    "project_id": "commision-app",
+    "storage_bucket": "commision-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625569081738:android:eecd410e00a104b18c4073",
+        "android_client_info": {
+          "package_name": "commision.madrid.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625569081738-mctd00bohjtkd42oi4clsk9mhj60g9fl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "commision.madrid.com",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "625569081738-hpp8avd3upfpeg355vqu3f2p8p7a8678.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2UQNhDrAgFA9Fa005ZVZslt2qrDWJos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625569081738-hpp8avd3upfpeg355vqu3f2p8p7a8678.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625569081738-gl58kgarpg2u8q17nq6pfv0mcvm4glei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "commision.madrid.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
